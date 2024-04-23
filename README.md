@@ -6,9 +6,9 @@ This script check for the vulnerable xz utils and liblzma version installed in y
 
 <h2>Usage:</h2>
 
-Step 1- Download or copy the script in your local machine in as *.sh
-Step 2 – Give executable permission
-Setp 3 – Run the script and wait for the output
+<br>Step 1- Download or copy the script in your local machine in as *.sh
+<br>Step 2 – Give executable permission 
+<br>Setp 3 – Run the script and wait for the output 
 
 <h2>Sources:</h2>
 
